@@ -6,7 +6,7 @@ I'm a Computer Science student at the [University of Nottingham](https://www.not
 
 ## <img src="assets/100.gif" height="20px"> My Portfolio
 
-[![A picture link to my portfolio website](/assets/Portfolio.png)](https://greg-frost-portfolio.vercel.app/)
+<a href="https://greg-frost-portfolio.vercel.app/" target="_blank"><img src="assets/Portfolio.png"></a>
 
 ## <img src="assets/rocket.gif" height="20px"> Interests
 
@@ -14,4 +14,4 @@ I'm a Computer Science student at the [University of Nottingham](https://www.not
 - NextJs
 - React
 
-<a href="https://www.buymeacoffee.com/gregfrost3v"><img src="assets/buymeacoffee.gif" alt="Buy me a coffee link"></a>
+<a href="https://www.buymeacoffee.com/gregfrost3v" target="_blank"><img src="assets/buymeacoffee.gif" alt="Buy me a coffee link"></a>

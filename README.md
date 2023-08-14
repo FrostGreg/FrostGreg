@@ -1,6 +1,6 @@
 ![A Banner introducing myself as Gregory Frost a computer science student at the University of Nottingham](/assets/Banner.jpeg)
 
-# Hi I'm Greg! <img src="assets/hands.gif" height="30px">
+# Hi I'm Greg! <img src="assets/hands.gif" width="5%">
 
 - Computer science student at the [University of Nottingham](https://www.nottingham.ac.uk/ugstudy/course/Computer-Science-with-Year-in-Industry-BSc)
 - I'm on a Capital One software engineering placement year

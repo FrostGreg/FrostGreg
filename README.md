@@ -18,20 +18,20 @@
 - Designed a Java Swing Reversi game
 - Crafted an HTML/CSS/JS Wordle clone
 
-## <img src="assets/100.gif"  width="5%"> - My Portfolio
+## <img src="assets/100.gif" width="5%"> - My Portfolio
 
 <a href="https://greg-frost-portfolio.vercel.app/" target="_blank"><img src="assets/Portfolio.png"></a>
 
-## <img src="assets/party.gif"  width="5%"> - GitHub Stats
+## <img src="assets/party.gif" width="5%"> - GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/frostgreg?cardType=github&theme=react&preferLogin=true&Border=333333)](https://git.io/awesome-stats-card)
 
-## <img src="assets/eyes.gif"  width="5%"> - About me
+## <img src="assets/eyes.gif" width="5%"> - About me
 
-I'm just your laid-back British tech enthusiast who's got a weird obsession for Lord of the Rings 🧙🏻‍♂️. When I'm not coding, i'm probably chilling with my vinyl collection, sporting everything from Tyler the Creator to Fleetwood Mac 🎧. Oh, and I've recently fallen down the rabbit hole of watches, with a simple collection of a Casioak and an Orient Bambino ⏱️. On top of that, I'm often playing video games, The Witcher 3 has its hooks in me like no other ⚔️. So, whether I'm hacking code, spinning records, tinkering with timepieces, or roaming virtual worlds, i'm often doing it with a relaxed charm 😉.
+When I'm not coding, i'm probably chilling with my headphones on, sporting everything from Tyler the Creator to Fleetwood Mac 🎧 and currently trying to build up my vinyl collection. I've recently fallen down the rabbit hole of watches, with a simple collection of a Casioak and an Orient Bambino ⏱️. On top of that, I'm often playing video games, The Witcher 3 has its hooks in me as it's the one game I keep going back to ⚔️. So, whether I'm coding, spinning a record, tinkering with timepieces, or immersed in a video game, i'm often doing it with a relaxed charm 😉.
 
-## <img src="assets/cool.gif"  width="5%"> - Support me
+## <img src="assets/cool.gif" width="5%"> - Support me
 
-If you're feeling awesome today and want to spread some good vibes. It's like giving a virtual high-five to support what I do. No pressure at all, but if you're up for it, you'll have my eternal gratitude!
+If you're feeling generous today and want to fuel my _caffeine dependency_, please feel free to leave a gift below. No pressure at all, but if you're up for it, you'll receive a _**one of a kind**_ AI generated pun involving your name!
 
 <a href="https://www.buymeacoffee.com/gregfrost3v" target="_blank"><img src="assets/buymeacoffee.gif" alt="Buy me a coffee link">

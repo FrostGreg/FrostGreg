@@ -3,7 +3,7 @@
 # Hi I'm Greg! <img src="assets/hands.gif" width="8%">
 
 - Computer science student at the [University of Nottingham](https://www.nottingham.ac.uk/ugstudy/course/Computer-Science-with-Year-in-Industry-BSc)
-- I'm on a Capital One software engineering placement year
+- I did a software engineering placement year @ Capital One
 - Passionate about HCI, UI/UX design, and front-end development
 - Open to connecting and exploring new opportunities
 
